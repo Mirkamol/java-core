@@ -56,7 +56,7 @@
 - [`Java 14 Record Keyword`](https://github.com/Mirkamol/java-core)
 - [`Number Formatting in Java`](https://github.com/Mirkamol/java-core)
 
-##**Java Concurrency**
+## **Java Concurrency**
 
 ### *Java Concurrency Basics*
 
@@ -100,9 +100,9 @@
 - [`Java Concurrency Utility with JCTools`](https://github.com/Mirkamol/java-core)
 
 ## **Java Collections**
-###**Lists**
+### **Lists**
 
-###*List Implementations:*
+### *List Implementations:*
 
 - [`A Guide to the Java LinkedList`](https://github.com/Mirkamol/java-core)
 - [`Guide to the Java ArrayList`](https://github.com/Mirkamol/java-core)
@@ -132,7 +132,7 @@
 
 ### **Sets**
 
-###*Set Implementations:*
+### *Set Implementations:*
 
 - [`A Guide to TreeSet in Java`](https://github.com/Mirkamol/java-core)
 - [`A Guide to HashSet in Java`](https://github.com/Mirkamol/java-core)
@@ -217,7 +217,7 @@
 - [`Guava – Join and Split Collections`](https://github.com/Mirkamol/java-core)
 - [`Guide to Guava Table`](https://github.com/Mirkamol/java-core)
 
-Other Collections
+### *Other Collections*
 
 - [`Introduction to Eclipse Collections`](https://github.com/Mirkamol/java-core)
 - [`Introduction to PCollections`](https://github.com/Mirkamol/java-core)
@@ -225,7 +225,7 @@ Other Collections
 - [`Hamcrest Collections Cookbook`](https://github.com/Mirkamol/java-core)
 - [`Implementing a Binary Tree in Java`](https://github.com/Mirkamol/java-core)
 
-##**5. Java Streams**
+## **5. Java Streams**
 
 ### *Stream Basics*
 
@@ -274,7 +274,7 @@ Other Collections
 - [`Spring Data Java 8 Support`](https://github.com/Mirkamol/java-core)
 - [`Java 8 Stream API Analogies in Kotlin`](https://github.com/Mirkamol/java-core)
 
-##**6. Java IO**
+## **6. Java IO**
 
 
 ### *Java I/O - Working with Files*
@@ -302,7 +302,7 @@ Other Collections
 - [`A Guide to WatchService in Java NIO2`](https://github.com/Mirkamol/java-core)
 - [`Introduction to the Java NIO Selector`](https://github.com/Mirkamol/java-core)
 
-##**7. Advanced Java**
+## **7. Advanced Java**
 - [`Composition, Aggregation, and Association in Java`](https://github.com/Mirkamol/java-core)
 - [`The Basics of Java Security`](https://github.com/Mirkamol/java-core)
 - [`Working with Network Interfaces in Java`](https://github.com/Mirkamol/java-core)
@@ -341,7 +341,7 @@ Other Collections
 - [`Comparing Arrays in Java`](https://github.com/Mirkamol/java-core)
 - [`A Guide to BitSet in Java`](https://github.com/Mirkamol/java-core)
 
-##**8. Tracking Java Development** 
+## **8. Tracking Java Development** 
     
 - [`New Features in Java 8`](https://github.com/Mirkamol/java-core)
 - [`New Features in Java 9`](https://github.com/Mirkamol/java-core)
